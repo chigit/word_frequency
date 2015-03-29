@@ -1,0 +1,7 @@
+This word count program is written in Python.
+It takes as an input, the path to the directory (wc_input, containing several text files) and produces a new text file (which you can name wc_results.txt in some wc_output directory) containing an alphabetically sorted list of words and their frequency of occurence across all the text files in the input directory.
+
+To run, type in the following at the terminal and follow the prompts:
+word_frequency()
+
+The wc_input foler here was a test directory for the source code.
